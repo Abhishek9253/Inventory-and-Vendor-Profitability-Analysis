@@ -3,7 +3,7 @@
 
 
 ## Business Problem:
-Effective inventory and sales management are essential for maximizing profitability in the retail and wholesale industry. This analysis aims to uncover actionable insights that can help optimize inventory turnover, pricing strategies, and vendor performance.
+Effective inventory and sales management are essential for maximizing profitability in the retail and wholesale industry. This analysis aims to uncover actionable insights that can help optimize inventory turnover, pricing strategies, and vendor performance over 1 crore+ records.
 
 
 ## Objectives:
@@ -16,7 +16,7 @@ Effective inventory and sales management are essential for maximizing profitabil
 
 ## 🔍 Exploratory Data Analysis (EDA) Summary
 ### 📌 Summary Statistics:
-- **Gross Profit: **Min value of -52,002.78, indicating significant losses potentially due to high costs or discounting strategies.
+- **Gross Profit:** Min value of -52,002.78, indicating significant losses potentially due to high costs or discounting strategies.
 - **Profit Margin:** Contains values of -∞, pointing to instances of zero or negative revenue.
 - **Total Sales Quantity / Sales Dollars:** Minimum values are 0, highlighting unsold or obsolete inventory.
 
