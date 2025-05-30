@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/9372ce67-3c7e-49e2-9d67-8d471cc207ac)# Inventory and Vendor Profitability Analysis
+# Inventory and Vendor Profitability Analysis.
+
 ## 🧩 Business Problem:
 Effective inventory and sales management are essential for maximizing profitability in the retail and wholesale industry. This analysis aims to uncover actionable insights that can help optimize inventory turnover, pricing strategies, and vendor performance.
 
