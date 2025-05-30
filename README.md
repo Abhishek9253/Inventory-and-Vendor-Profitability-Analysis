@@ -5,12 +5,14 @@
 ## Business Problem:
 Effective inventory and sales management are essential for maximizing profitability in the retail and wholesale industry. This analysis aims to uncover actionable insights that can help optimize inventory turnover, pricing strategies, and vendor performance.
 
+
 ## Objectives:
 - Identify underperforming brands for potential promotional or pricing strategies.
 - Determine top vendors contributing significantly to gross profit.
 - Analyze the impact of bulk purchasing on unit costs.
 - Evaluate inventory turnover to minimize holding costs.
 - Examine profitability variance between high-performing and low-performing vendors.
+
 
 ## 🔍 Exploratory Data Analysis (EDA) Summary
 ### 📌 Summary Statistics:
@@ -23,11 +25,14 @@ Effective inventory and sales management are essential for maximizing profitabil
 - **Freight Cost:** Ranges from 0.09 to 257,032, reflecting inconsistencies in logistics or large-volume shipments.
 - **Stock Turnover:** Ranges from 0 to 274.5, suggesting uneven product movement—some sell out rapidly, others stagnate.
 
+
 ### 🧹 Data Filtering:
 Filtered out transactions to improve data reliability:
 - **Gross Profit** <= 0 (to exclude transactions leading to losses).
 - **Profit Margin**<= 0 (to ensure analysis focuses on profitable transactions)
 - **Sales Quantity** = 0 (to eliminate inventory that has never sold)
+
+
 
 
 ## ❓ Research Questions & Key Findings
@@ -49,12 +54,15 @@ Filtered out transactions to improve data reliability:
 - **Problem:** Increases holding costs, reduces cash flow.
 - **Action:** Identify low-performing vendors and optimize or liquidate slow-moving stock.
 
+
+
 ## ✅ Final Recommendations
 - Re-evaluate pricing strategies for high-margin but low-sales brands to boost revenue.
 - Diversify vendor relationships to mitigate supply chain risk.
 - Maximize cost savings through bulk purchasing without overstocking.
 - Reduce holding costs by identifying and acting on slow-moving inventory.
 - Support underperforming vendors with better distribution and marketing strategies.
+
 
 ## Data Modeling:
 ![Screenshot 2025-05-30 152029](https://github.com/user-attachments/assets/9e811cc4-7b7a-49a0-be69-2d962be74bbd)
